@@ -1,0 +1,83 @@
+body {
+    background-color: transparent;
+    font-family: 'Urbanist', serif;
+    color:black;
+    font-weight: bold;
+
+}
+
+.my-name {
+    font-size: 60px;
+}
+
+.profile-pic {
+    border-radius: 50%;
+    
+}
+
+#about-me {
+    text-align: center;
+    margin-top: 30px;
+}
+.desc {
+    display: inline-block;
+    height: 200px;
+    width: 300px;
+    position: relative;
+    bottom: 35px;
+
+}
+
+hr {
+    width: 50%;
+    height: 2px;
+    background-color: #d0dc89;
+}
+
+#experiences {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.my-icons
+{
+    text-align: center;
+}
+
+.icon {
+    margin: 20px;
+    font-size: 25px;
+    color: #ebc071;
+}
+
+#projects {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.section {
+    color: #ebc071;
+}
+
+#skills{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.pre {
+    text-align: center;
+}
+
+.navbar {
+    text-align: right;
+}
+
+.navbar-element {
+    text-decoration: none;
+    margin: 30px;
+    font-size: 20px;
+    border: 1px solid #d0dc89;
+    background-color: #d0dc89;
+    opacity: 50%;
+    color: black;
+}
